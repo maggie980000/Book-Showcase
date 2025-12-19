@@ -23,3 +23,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1IT81vHyiN8AulGLljCszd_
 <img width="1512" height="982" alt="截屏2025-12-20 上午1 21 57" src="https://github.com/user-attachments/assets/6594a904-c51d-43d7-8b63-2261f2c19fe1" />
 <img width="1512" height="982" alt="截屏2025-12-20 上午1 25 06" src="https://github.com/user-attachments/assets/5b079ddf-024e-4400-b6b3-ed7cd3051751" />
 <img width="1512" height="982" alt="截屏2025-12-20 上午1 23 37" src="https://github.com/user-attachments/assets/b2a0f535-36d5-4338-a233-ff2d4579849c" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/7d5b1636-4ed4-40a7-b6c8-03ecfaa043bb" />
